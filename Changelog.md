@@ -1,21 +1,21 @@
-### The MMD Dev Server Modpack has been updated to version 1.4.3!
+## The MMD Dev Server Modpack has been updated to version 1.4.3!
 
-### Download: 
+## Download: 
 https://github.com/MinecraftModDevelopment/MMD-Dev-Server/raw/releases/MMD-Dev-Server-1.4.3.zip
 
-### Curse Launcher/Github Sync Branch: 
+## Curse Launcher/Github Sync Branch: 
 https://github.com/MinecraftModDevelopment/MMD-Dev-Server/tree/curse-launcher-dev
 
-### Changelog:
+## Changelog:
 
-### Forge:
+## Forge:
 12.18.1.2086
 
-### Added:
-## modular-routers-1.10.2-1.0.2
-## TinkerToolLeveling-1.10.2-0.1.0
+## Added:
+#### modular-routers-1.10.2-1.0.2
+### TinkerToolLeveling-1.10.2-0.1.0
 
-### Updated:
+## Updated:
 valkyrielib-1.10.2-0.10.4.
 TConstruct-1.10.2-2.5.1.
 Chisel_DEV-MC1.9.4-0.0.6.40.
@@ -36,5 +36,5 @@ ColossalChests-1.9.4-1.3.10
 EnergySynergy-1.10.2-1.1.0
 
 
-### Removed:
+## Removed:
 
