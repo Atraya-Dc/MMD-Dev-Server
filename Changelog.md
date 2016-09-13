@@ -12,8 +12,8 @@ https://github.com/MinecraftModDevelopment/MMD-Dev-Server/tree/curse-launcher-de
 12.18.1.2086
 
 ### Added:
-modular-routers-1.10.2-1.0.2
-TinkerToolLeveling-1.10.2-0.1.0
+## modular-routers-1.10.2-1.0.2
+## TinkerToolLeveling-1.10.2-0.1.0
 
 ### Updated:
 valkyrielib-1.10.2-0.10.4.
