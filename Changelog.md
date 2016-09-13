@@ -16,11 +16,11 @@ modular-routers-1.10.2-1.0.2
 TinkerToolLeveling-1.10.2-0.1.0
 
 ### Updated:
-valkyrielib-1.10.2-0.10.4
-TConstruct-1.10.2-2.5.1
-Chisel_DEV-MC1.9.4-0.0.6.40
-theoneprobe-1.10-1.1.1
-rftoolsdim-1.10-4.30beta49
+valkyrielib-1.10.2-0.10.4.
+TConstruct-1.10.2-2.5.1.
+Chisel_DEV-MC1.9.4-0.0.6.40.
+theoneprobe-1.10-1.1.1.
+rftoolsdim-1.10-4.30beta49.
 rftoolsctrl-1.10-0.1.0beta3
 Refinedstorage-1.0.1
 mcjtylib-1.10-2.0.2
